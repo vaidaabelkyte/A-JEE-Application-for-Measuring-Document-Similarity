@@ -21,7 +21,7 @@ be compared for similarity. An overview of the system is given below:
   2. Each submitted document is <strong>parsed into its set of constituent shingles</strong> and
 then compared against the existing document(s) in an object-oriented database <strong>(db4O)</strong>
 and then stored in the database<br>
-  3. The <strong>similarity of the submitted document</strong to the set of documents stored in the
+  3. The <strong>similarity of the submitted document</strong> to the set of documents stored in the
 database returned and presented to the session user.<br>
  
   </p>
